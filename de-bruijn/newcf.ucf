@@ -1,0 +1,11 @@
+net "seed[0]" loc = "p191";
+net "seed[1]" loc = "p190";
+net "seed[2]" loc = "p196";
+net "seed[3]" loc = "p194";
+net "sel"     loc = "p198";
+net "state[0]" loc = "p139";
+net "state[1]" loc = "p140";
+net "state[2]" loc = "p137";
+net "state[3]" loc = "p138";
+net "clk" loc = "p76";
+net "rst" loc = "p108";
